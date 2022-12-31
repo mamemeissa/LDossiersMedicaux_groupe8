@@ -1,6 +1,6 @@
 <?php
-$dbuser = "root";
-$dbpass = "toor";
-$host = "localhost";
-$db = "hmisphp";
+$dbuser = "";
+$dbpass = "";
+$host = "";
+$db = "";
 $mysqli = new mysqli($host, $dbuser, $dbpass, $db);
